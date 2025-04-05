@@ -7,7 +7,7 @@ export function About() {
       quote:
         "Implementation was seamless and the results exceeded our expectations. The platform's flexibility is remarkable.",
       name: "Dr. Payal Mittal",
-      designation: "Mentor, InnovateSphere",
+      designation: "Mentor, CollabSphere",
       src: "/images/Profile2.jpg",
     },
     {
